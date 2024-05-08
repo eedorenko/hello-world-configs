@@ -1,0 +1,4 @@
+app:
+  name: hello-world-functional
+replicas: 3
+namespace: $ENVIRONMENT
