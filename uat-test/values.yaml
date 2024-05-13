@@ -1,0 +1,4 @@
+app:
+  name: hello-world-uat
+replicas: 1
+

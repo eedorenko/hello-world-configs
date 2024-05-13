@@ -1,4 +1,0 @@
-app:
-  name: hello-world-functional
-replicas: 1
-
