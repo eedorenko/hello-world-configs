@@ -1,0 +1,4 @@
+app:
+  name: hello-world-performance
+replicas: 3
+
